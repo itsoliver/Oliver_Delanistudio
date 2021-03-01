@@ -40,7 +40,7 @@
  - Github link
 ## Contact information.
  - Email: oliverkiplagat25@gmail.com
- - Phone-No: 0797657305/0795663799.
+ - Phone-No: 0718551651
 ## License and Copyright information.
- - MIT License Copyright (c) 2019 (Kebaso Steve Ongati)
+ - MIT License Copyright (c) 2020 (oliver kiplagat)
  -  [MIT License](https://kebasoh.github.io/delanistudio/blob/master/LICENSE)[Kebasoh](https://github.com/kebasoh)
