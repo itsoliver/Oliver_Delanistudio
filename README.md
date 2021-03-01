@@ -37,7 +37,7 @@
 </video>
 
 ## Project's live Link
- - Github link
+ - Github link:https://itsoliver.github.io/Oliver_Delanistudio/
 ## Contact information.
  - Email: oliverkiplagat25@gmail.com
  - Phone-No: 0718551651
