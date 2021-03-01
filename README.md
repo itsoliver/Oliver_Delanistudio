@@ -1,7 +1,7 @@
 ## PROJECT NAME
  - DELANI STUDIO
  ## Author's Name
- - KEBASO STEVE ONGATI
+ - OLIVER KIPLAGAT
  
 ## Setup instructions 
  - git clone or download the zip file.
@@ -37,7 +37,7 @@
 </video>
 
 ## Project's live Link
- - Github link:https://kebasoh.github.io/delanistudio/
+ - Github link
 ## Contact information.
  - Email: ongatikebaso@gmail.com.
  - Phone-No: 0797657305/0795663799.
