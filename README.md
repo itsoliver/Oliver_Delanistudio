@@ -39,7 +39,7 @@
 ## Project's live Link
  - Github link
 ## Contact information.
- - Email: ongatikebaso@gmail.com.
+ - Email: oliverkiplagat25@gmail.com
  - Phone-No: 0797657305/0795663799.
 ## License and Copyright information.
  - MIT License Copyright (c) 2019 (Kebaso Steve Ongati)
